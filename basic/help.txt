@@ -1,0 +1,2 @@
+Remove trailing spaces
+sed -i 's/\r$//' file.sh
